@@ -1,0 +1,4 @@
+*.vec
+get-pip.py
+examples.desktop
+.[!g]*
